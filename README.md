@@ -147,7 +147,7 @@ Modern standard German and its contemporary variations.
 
 ## Communities
 
-- [Medieval Germanic Studies Mailing List](https://www.jiscmail.ac.uk/) - Academic discussion forum.
+- [Medieval Germanic Studies Mailing List](https://www.jiscmail.ac.uk/MEDGERMAN) - Academic discussion forum for medieval Germanic linguistics.
 - [Reddit - r/linguistics](https://www.reddit.com/r/linguistics/) - General linguistics discussions including historical German.
 - [Deutsche Akademie für Sprache und Dichtung](https://www.deutscheakademie.de/) - German Language Academy.
 
@@ -161,7 +161,7 @@ Modern standard German and its contemporary variations.
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! Please feel free to submit a pull request with additional resources or improvements.
 
 ---
 
